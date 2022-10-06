@@ -8,4 +8,14 @@
   "profile": {
     "name": "typicode"
   }
+  "products": [
+    {
+      "id": 1,
+      "title": "boom"
+    },
+    {
+      "id": 2,
+      "title": "mast"
+    }
+  ]
 }
