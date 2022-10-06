@@ -2,11 +2,7 @@
   "posts": [
     {
       "id": 1,
-      "title": "pik"
-    },
-    {
-      "id": 2,
-      "title": "pak"
+      "title": "hello"
     }
   ],
   "profile": {
